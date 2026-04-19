@@ -1,0 +1,247 @@
+{
+  "timestamp": "2026-04-13T13:37:37.224334",
+  "model": "llama3.2:3b",
+  "num_questions": 26,
+  "scores": {
+    "faithfulness": 0.2308,
+    "answer_relevancy": 0.7308,
+    "context_precision": 0.4231,
+    "context_recall": 0.6538
+  },
+  "rows": [
+    {
+      "question": "When did the New Constituent Assembly start to function?",
+      "answer": "December 9, 1946.",
+      "ground_truth": "The New Constituent Assembly started to function from December 9, 1946.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "Where is the Supreme Court of India located?",
+      "answer": "New Delhi.",
+      "ground_truth": "The Supreme Court of India is located in New Delhi.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "In which countries are the teams that compete for the Wightman Cup from?",
+      "answer": "The U.S.A. and England.",
+      "ground_truth": "The teams that compete for the Wightman Cup are from the U.S.A. and England.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "What is Switzerland commonly referred to as?",
+      "answer": "Kashmir of Europe",
+      "ground_truth": "Switzerland is commonly referred to as the Kashmir of Europe.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    {
+      "question": "What are the qualifications to be a judge of a High Court in India?",
+      "answer": "According to the context, the qualifications to be a judge of a High Court in India are:\n\n1. Be a citizen of India.\n2. Have been a judge of a civil and session court in India for at least ten years.",
+      "ground_truth": "To be a judge of a High Court a person must be a citizen of India and have been a judge of a civil and session court in India for at least ten years.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0,
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    {
+      "question": "Where do white shiny patches appear after 2-3 months of infection?",
+      "answer": "Inside the mouth.",
+      "ground_truth": "The text does not specify the location where white shiny patches appear after 2-3 months of infection, it only mentions that they appear.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0,
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    {
+      "question": "When was Ahalyabai born?",
+      "answer": "According to the context, Ahalyabai was born in 1735.",
+      "ground_truth": "Ahalyabai was born in 1735.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "Who signs the one Rupee note in India?",
+      "answer": "The Secretary, Ministry of Finance.",
+      "ground_truth": "The one Rupee note bears the signature of the Secretary, Ministry of Finance.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "Where was Buddha said to have died?",
+      "answer": "Dushinaar (U.P.)",
+      "ground_truth": "Buddha died at Dushinaar (U.P).",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "When was the International Bank for Reconstruction and Development established at the Bretton Woods Conference?",
+      "answer": "The International Bank for Reconstruction and Development (IBRD) was established at the Bretton Woods Conference in July 1994.",
+      "ground_truth": "It was established at Bretton Woods Conference in July 1994.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "When was the first Census taken in India during Lord Mayo's tenure?",
+      "answer": "The first Census was taken in 1871, under Lord Mayo's tenure.",
+      "ground_truth": "The first Census was taken in 1871.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "On what date was the Indian Airlines plane IC 814 forced to land at Kandahar Airport?",
+      "answer": "December 25, 1999.",
+      "ground_truth": "The Indian Airlines plane IC 814 was forced to land at Kandahar Airport on December 25, 1999.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "What is a Radiometer used for?",
+      "answer": "An instrument for measuring the emission of radiant energy.",
+      "ground_truth": "A Radiometer is an instrument for measuring the emission of radiant energy.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "In what year did he have to suffer martyrdom?",
+      "answer": "1675.",
+      "ground_truth": "He had to suffer martyrdom in 1675.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "What is the largest stadium mentioned in the text and where is it located?",
+      "answer": "The largest stadium mentioned in the text is Wembley Stadium, and it is located in England.",
+      "ground_truth": "The largest stadium mentioned in the text is Strahov Stadium, located in Prague, Czech.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0,
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    {
+      "question": "What happens to breathing when the supply of oxygen per breathe is deficient?",
+      "answer": "Breathing becomes difficult.",
+      "ground_truth": "Breathing becomes difficult when the supply of oxygen per breathe is deficient.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0,
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    {
+      "question": "Who was the first man to walk in space?",
+      "answer": "Alexi Leonov (USSR)",
+      "ground_truth": "The first man to walk in space was Alexi Leonov of the USSR.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "What is the outside diameter of the structure in Houston, Texas, USA?",
+      "answer": "I don't have enough information. The context only mentions measurements for various units and structures, but does not mention a specific structure in Houston, Texas, USA.",
+      "ground_truth": "The outside diameter of the structure in Houston, Texas, USA is 216 metres.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0,
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    {
+      "question": "Where was the Ist Atom Bomb dropped?",
+      "answer": "Hiroshima (Japan).",
+      "ground_truth": "The Ist Atom Bomb was dropped in Hiroshima, Japan.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "On which day is World Health Day celebrated?",
+      "answer": "I don't have enough information. The context only mentions \"Doctors' Day\" on July 1, but it does not mention \"World Health Day\".",
+      "ground_truth": "World Health Day is celebrated on April 7.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0,
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    {
+      "question": "Where is the site of the ruins of the ancient capital of the Vijayanagar empire located?",
+      "answer": "The site of the ruins of the ancient capital of the Vijayanagar empire is located in Hampi, which is in Karnataka.",
+      "ground_truth": "The site of the ruins of the ancient capital of the Vijayanagar empire is located in Karnataka.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "What is called a favourable balance of trade?",
+      "answer": "A favourable balance of trade.",
+      "ground_truth": "A favourable balance of trade is called when the difference between the visible exports and visible imports of two countries in trade with each other is positive.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    {
+      "question": "What is an advalorem duty?",
+      "answer": "An advalorem duty, as defined in the context, is a duty whose amount depends on the value of the property taxed.",
+      "ground_truth": "An advalorem duty is a duty the amount of which depends upon the value of the property taxed.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0,
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    {
+      "question": "Who can propose the name of a candidate for the office of the President of India?",
+      "answer": "Any one member of the electoral college.",
+      "ground_truth": "The name of a candidate for the office of the President of India may be proposed by any one member of the electoral college.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "In what year did Alexander die on his way to Babylon?",
+      "answer": "323 B.C.",
+      "ground_truth": "Alexander died on his way to Babylon in 323 B.C.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "What layer of the atmosphere extends from 50 to 80 Kms above the earth?",
+      "answer": "Mesosphere.",
+      "ground_truth": "The Mesosphere is the layer of the atmosphere that extends from 50 to 80 Kms above the earth.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    }
+  ]
+}
